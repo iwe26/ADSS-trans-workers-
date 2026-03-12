@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ADSS_Group_AAA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ADSS_Group_AAA_jar</output-path>
+    <root id="archive" name="ADSS_Group_AAA.jar">
+      <element id="module-output" name="ADSS_Group_AAA" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/.idea/libraries/slf4j-api-2.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/.idea/libraries/slf4j-simple-2.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/.idea/libraries/sqlite-jdbc-3.43.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
